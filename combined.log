@@ -1,0 +1,3046 @@
+{"message":"server up and runnig at http://localhost:4000","level":"info"}
+{"message":"server up and runnig at http://localhost:4000","level":"info"}
+{"level":"info","message":"server up and runnig at http://localhost:4000"}
+{"level":"info","message":"server up and runnig at http://localhost:4000"}
+{"level":"info","message":"Db Connected!"}
+{"level":"info","message":"server up and runnig at http://localhost:4000"}
+{"level":"info","message":"info"}
+{"level":"info","message":"server up and runnig at http://localhost:4000"}
+{"level":"info","message":"info"}
+info: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T07:05:51.327Z"}
+info: info {"timestamp":"2020-04-03T07:05:51.359Z"}
+info: info {"timestamp":"2020-04-03T07:06:30.460Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T07:07:19.685Z"}
+info: info {"timestamp":"2020-04-03T07:07:19.708Z"}
+info: info {"timestamp":"2020-04-03T07:07:19.708Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T07:08:54.448Z"}
+info: info {"timestamp":"2020-04-03T07:08:54.473Z"}
+info: info {"timestamp":"2020-04-03T07:08:54.473Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T07:09:05.931Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T07:11:17.692Z"}
+info: info {"timestamp":"2020-04-03T07:11:17.715Z"}
+info: info {"timestamp":"2020-04-03T07:11:17.715Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T07:14:04.641Z"}
+info: info {"timestamp":"2020-04-03T07:14:04.665Z"}
+info: info {"timestamp":"2020-04-03T07:14:04.666Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T07:17:11.730Z"}
+info: info {"timestamp":"2020-04-03T07:17:11.749Z"}
+info: info {"timestamp":"2020-04-03T07:17:11.749Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T07:17:18.906Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T07:17:36.638Z"}
+info: info {"timestamp":"2020-04-03T07:17:36.662Z"}
+info: info {"timestamp":"2020-04-03T07:17:36.662Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T07:17:39.428Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T07:17:44.114Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T07:17:46.370Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T07:18:14.200Z"}
+info: info {"timestamp":"2020-04-03T07:18:14.227Z"}
+info: info {"timestamp":"2020-04-03T07:18:14.227Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T07:18:19.920Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T07:18:19.920Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T07:19:51.245Z"}
+info: info {"timestamp":"2020-04-03T07:19:51.269Z"}
+info: info {"timestamp":"2020-04-03T07:19:51.269Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T07:19:54.491Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T07:19:54.491Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 1:19:54 PM'
+} {"timestamp":"2020-04-03T07:19:54.535Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 1:19:54 PM'
+} {"timestamp":"2020-04-03T07:19:54.535Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T07:46:04.047Z"}
+info: info {"timestamp":"2020-04-03T07:46:04.067Z"}
+info: info {"timestamp":"2020-04-03T07:46:04.067Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T07:46:06.167Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T07:46:06.168Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 1:46:06 PM'
+} {"timestamp":"2020-04-03T07:46:06.204Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 1:46:06 PM'
+} {"timestamp":"2020-04-03T07:46:06.204Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T09:19:44.073Z"}
+info: info {"timestamp":"2020-04-03T09:19:44.105Z"}
+info: info {"timestamp":"2020-04-03T09:19:44.105Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T09:21:08.666Z"}
+info: info {"timestamp":"2020-04-03T09:21:08.690Z"}
+info: info {"timestamp":"2020-04-03T09:21:08.690Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T09:22:12.555Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T09:22:12.555Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 3:22:12 PM'
+} {"timestamp":"2020-04-03T09:22:12.605Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 3:22:12 PM'
+} {"timestamp":"2020-04-03T09:22:12.605Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T09:22:56.726Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T09:22:56.727Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 3:22:56 PM'
+} {"timestamp":"2020-04-03T09:22:56.757Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 3:22:56 PM'
+} {"timestamp":"2020-04-03T09:22:56.757Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T09:23:38.208Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T09:23:38.209Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 3:23:38 PM'
+} {"timestamp":"2020-04-03T09:23:38.223Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 3:23:38 PM'
+} {"timestamp":"2020-04-03T09:23:38.223Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T09:31:42.016Z"}
+info: info {"timestamp":"2020-04-03T09:31:42.043Z"}
+info: info {"timestamp":"2020-04-03T09:31:42.043Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T09:31:46.334Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T09:31:46.335Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 3:31:46 PM'
+} {"timestamp":"2020-04-03T09:31:46.369Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 3:31:46 PM'
+} {"timestamp":"2020-04-03T09:31:46.369Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T09:32:16.217Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T09:32:16.217Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 3:32:16 PM'
+} {"timestamp":"2020-04-03T09:32:16.232Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 3:32:16 PM'
+} {"timestamp":"2020-04-03T09:32:16.232Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T09:32:40.580Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T09:32:40.580Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 3:32:40 PM'
+} {"timestamp":"2020-04-03T09:32:40.603Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 3:32:40 PM'
+} {"timestamp":"2020-04-03T09:32:40.603Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T09:34:24.859Z"}
+info: info {"timestamp":"2020-04-03T09:34:24.878Z"}
+info: info {"timestamp":"2020-04-03T09:34:24.878Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T09:34:26.409Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T09:34:26.409Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 3:34:26 PM'
+} {"timestamp":"2020-04-03T09:34:26.445Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 3:34:26 PM'
+} {"timestamp":"2020-04-03T09:34:26.445Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T10:04:57.997Z"}
+info: info {"timestamp":"2020-04-03T10:04:58.024Z"}
+info: info {"timestamp":"2020-04-03T10:04:58.024Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T10:06:19.934Z"}
+info: info {"timestamp":"2020-04-03T10:06:19.958Z"}
+info: info {"timestamp":"2020-04-03T10:06:19.958Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T10:17:54.327Z"}
+info: info {"timestamp":"2020-04-03T10:17:54.358Z"}
+info: info {"timestamp":"2020-04-03T10:17:54.358Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T10:19:11.070Z"}
+info: info {"timestamp":"2020-04-03T10:19:11.088Z"}
+info: info {"timestamp":"2020-04-03T10:19:11.088Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T10:25:23.437Z"}
+info: info {"timestamp":"2020-04-03T10:25:23.458Z"}
+info: info {"timestamp":"2020-04-03T10:25:23.458Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T10:25:30.572Z"}
+info: info {"timestamp":"2020-04-03T10:25:30.594Z"}
+info: info {"timestamp":"2020-04-03T10:25:30.594Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T10:26:32.133Z"}
+info: info {"timestamp":"2020-04-03T10:26:32.154Z"}
+info: info {"timestamp":"2020-04-03T10:26:32.154Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:24:13.845Z"}
+info: info {"timestamp":"2020-04-03T11:24:13.869Z"}
+info: info {"timestamp":"2020-04-03T11:24:13.869Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:26:14.586Z"}
+info: info {"timestamp":"2020-04-03T11:26:14.608Z"}
+info: info {"timestamp":"2020-04-03T11:26:14.608Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:27:52.932Z"}
+info: info {"timestamp":"2020-04-03T11:27:52.958Z"}
+info: info {"timestamp":"2020-04-03T11:27:52.958Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:29:28.931Z"}
+info: info {"timestamp":"2020-04-03T11:29:28.959Z"}
+info: info {"timestamp":"2020-04-03T11:29:28.959Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:29:51.550Z"}
+info: info {"timestamp":"2020-04-03T11:29:51.575Z"}
+info: info {"timestamp":"2020-04-03T11:29:51.575Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:29:54.727Z"}
+info: info {"timestamp":"2020-04-03T11:29:54.765Z"}
+info: info {"timestamp":"2020-04-03T11:29:54.765Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:30:56.269Z"}
+info: info {"timestamp":"2020-04-03T11:30:56.292Z"}
+info: info {"timestamp":"2020-04-03T11:30:56.292Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:31:14.316Z"}
+info: info {"timestamp":"2020-04-03T11:31:14.340Z"}
+info: info {"timestamp":"2020-04-03T11:31:14.340Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:31:28.537Z"}
+info: info {"timestamp":"2020-04-03T11:31:28.565Z"}
+info: info {"timestamp":"2020-04-03T11:31:28.565Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:34:07.178Z"}
+info: info {"timestamp":"2020-04-03T11:34:07.218Z"}
+info: info {"timestamp":"2020-04-03T11:34:07.218Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T11:34:16.087Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T11:34:16.088Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 5:34:16 PM'
+} {"timestamp":"2020-04-03T11:34:16.120Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 5:34:16 PM'
+} {"timestamp":"2020-04-03T11:34:16.120Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:35:06.925Z"}
+info: info {"timestamp":"2020-04-03T11:35:06.943Z"}
+info: info {"timestamp":"2020-04-03T11:35:06.943Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:35:53.028Z"}
+info: info {"timestamp":"2020-04-03T11:35:53.046Z"}
+info: info {"timestamp":"2020-04-03T11:35:53.046Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:36:48.020Z"}
+info: info {"timestamp":"2020-04-03T11:36:48.057Z"}
+info: info {"timestamp":"2020-04-03T11:36:48.058Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:37:25.820Z"}
+info: info {"timestamp":"2020-04-03T11:37:25.851Z"}
+info: info {"timestamp":"2020-04-03T11:37:25.851Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:37:35.553Z"}
+info: info {"timestamp":"2020-04-03T11:37:35.581Z"}
+info: info {"timestamp":"2020-04-03T11:37:35.581Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T11:37:40.623Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T11:37:40.623Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 5:37:40 PM'
+} {"timestamp":"2020-04-03T11:37:40.650Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 5:37:40 PM'
+} {"timestamp":"2020-04-03T11:37:40.650Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T11:38:58.645Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T11:38:58.645Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 5:38:58 PM'
+} {"timestamp":"2020-04-03T11:38:58.674Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 5:38:58 PM'
+} {"timestamp":"2020-04-03T11:38:58.674Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T11:39:11.692Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T11:39:11.692Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 5:39:11 PM'
+} {"timestamp":"2020-04-03T11:39:11.720Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 5:39:11 PM'
+} {"timestamp":"2020-04-03T11:39:11.721Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:40:40.961Z"}
+info: info {"timestamp":"2020-04-03T11:40:40.984Z"}
+info: info {"timestamp":"2020-04-03T11:40:40.984Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:41:28.112Z"}
+info: info {"timestamp":"2020-04-03T11:41:28.135Z"}
+info: info {"timestamp":"2020-04-03T11:41:28.135Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:46:43.704Z"}
+info: info {"timestamp":"2020-04-03T11:46:43.728Z"}
+info: info {"timestamp":"2020-04-03T11:46:43.728Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:53:10.141Z"}
+info: info {"timestamp":"2020-04-03T11:53:10.172Z"}
+info: info {"timestamp":"2020-04-03T11:53:10.172Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:56:15.656Z"}
+info: info {"timestamp":"2020-04-03T11:56:15.673Z"}
+info: info {"timestamp":"2020-04-03T11:56:15.674Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:57:17.184Z"}
+info: info {"timestamp":"2020-04-03T11:57:17.211Z"}
+info: info {"timestamp":"2020-04-03T11:57:17.211Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:58:31.445Z"}
+info: info {"timestamp":"2020-04-03T11:58:31.473Z"}
+info: info {"timestamp":"2020-04-03T11:58:31.473Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T11:58:41.220Z"}
+info: info {"timestamp":"2020-04-03T11:58:41.245Z"}
+info: info {"timestamp":"2020-04-03T11:58:41.245Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T12:03:29.638Z"}
+info: info {"timestamp":"2020-04-03T12:03:29.661Z"}
+info: info {"timestamp":"2020-04-03T12:03:29.661Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:03:33.135Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:03:33.136Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM'
+} {"timestamp":"2020-04-03T12:03:33.165Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM'
+} {"timestamp":"2020-04-03T12:03:33.165Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T12:04:29.947Z"}
+info: info {"timestamp":"2020-04-03T12:04:29.964Z"}
+info: info {"timestamp":"2020-04-03T12:04:29.964Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T12:08:10.674Z"}
+info: info {"timestamp":"2020-04-03T12:08:10.694Z"}
+info: info {"timestamp":"2020-04-03T12:08:10.695Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:08:26.413Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:08:26.413Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:08:26.436Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:08:26.436Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:08:33.493Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:08:33.493Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:08:33.511Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:08:33.511Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T12:13:01.644Z"}
+info: info {"timestamp":"2020-04-03T12:13:01.662Z"}
+info: info {"timestamp":"2020-04-03T12:13:01.662Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T12:14:18.725Z"}
+info: info {"timestamp":"2020-04-03T12:14:18.751Z"}
+info: info {"timestamp":"2020-04-03T12:14:18.751Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:14:23.046Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:14:23.046Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:14:23.073Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:14:23.073Z"}
+debug: Post registration3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:14:25.333Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T12:14:54.047Z"}
+info: info {"timestamp":"2020-04-03T12:14:54.072Z"}
+info: info {"timestamp":"2020-04-03T12:14:54.072Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:14:56.607Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:14:56.607Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:14:56.665Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:14:56.665Z"}
+debug: Post registration3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:15:00.717Z"}
+debug: Baler : 3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:15:00.719Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T12:15:15.154Z"}
+info: info {"timestamp":"2020-04-03T12:15:15.178Z"}
+info: info {"timestamp":"2020-04-03T12:15:15.178Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:15:18.295Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:15:18.295Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:15:18.321Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:15:18.321Z"}
+debug: Post registration3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:15:20.200Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T12:15:42.712Z"}
+info: info {"timestamp":"2020-04-03T12:15:42.731Z"}
+info: info {"timestamp":"2020-04-03T12:15:42.731Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:16:26.319Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:16:26.319Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:16:26.343Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:16:26.343Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:18:59.333Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:18:59.334Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:18:59.350Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:18:59.350Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:19:10.160Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:19:10.160Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:19:10.176Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:19:10.176Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:19:17.188Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:19:17.188Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:19:17.200Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:19:17.200Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T12:20:13.124Z"}
+info: info {"timestamp":"2020-04-03T12:20:13.148Z"}
+info: info {"timestamp":"2020-04-03T12:20:13.148Z"}
+debug: 3/care/ipd/03/2020 {"timestamp":"2020-04-03T12:20:19.395Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:20:19.395Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:20:19.413Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e8319407998f8fa08771d47,
+  registrationid: '3/care/ipd/03/2020',
+  registrationDate: '3/31/2020, 4:12:27 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 54,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Cash',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jharkhand',
+  primaryPhoneNnumber: '01710038888',
+  email: 'nusratnisha10@gmail.com',
+  __v: 0,
+  admitDate: '4/3/2020, 6:03:33 PM',
+  advanceAmount: '100',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:20:19.413Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T12:20:32.741Z"}
+info: info {"timestamp":"2020-04-03T12:20:32.759Z"}
+info: info {"timestamp":"2020-04-03T12:20:32.759Z"}
+debug: 1/care/ipd/03/2020 {"timestamp":"2020-04-03T12:20:36.206Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:20:36.206Z"}
+debug: 1/care/ipd/03/2020 {"timestamp":"2020-04-03T12:20:48.136Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:20:48.136Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-03T12:20:57.710Z"}
+info: info {"timestamp":"2020-04-03T12:20:57.734Z"}
+info: info {"timestamp":"2020-04-03T12:20:57.734Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-03T12:21:13.213Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:21:13.213Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:21:13 PM'
+} {"timestamp":"2020-04-03T12:21:13.240Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:21:13 PM'
+} {"timestamp":"2020-04-03T12:21:13.240Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-03T12:23:51.630Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:23:51.630Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:23:51 PM'
+} {"timestamp":"2020-04-03T12:23:51.644Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:23:51 PM'
+} {"timestamp":"2020-04-03T12:23:51.644Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-03T12:24:03.105Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:24:03.105Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM'
+} {"timestamp":"2020-04-03T12:24:03.124Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM'
+} {"timestamp":"2020-04-03T12:24:03.124Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-03T12:25:11.228Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-03T12:25:11.228Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:25:11.247Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-03T12:25:11.247Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T09:18:47.124Z"}
+info: info {"timestamp":"2020-04-04T09:18:47.154Z"}
+info: info {"timestamp":"2020-04-04T09:18:47.154Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T09:22:29.279Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T09:22:29.279Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T09:22:29.308Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T09:22:29.308Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T09:23:40.051Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T09:23:40.051Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T09:23:40.079Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T09:23:40.079Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:11:01.895Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:11:01.896Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:11:01.930Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:11:01.930Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:11:06.399Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:11:06.399Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:11:06.428Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:11:06.429Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:12:55.352Z"}
+info: info {"timestamp":"2020-04-04T10:12:55.386Z"}
+info: info {"timestamp":"2020-04-04T10:12:55.386Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:13:17.116Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:13:17.116Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:13:17.151Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:13:17.152Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:13:26.622Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:13:26.623Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:13:26.661Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:13:26.662Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:13:35.703Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:13:35.703Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:13:35.738Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:13:35.738Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:14:46.105Z"}
+info: info {"timestamp":"2020-04-04T10:14:46.129Z"}
+info: info {"timestamp":"2020-04-04T10:14:46.129Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:14:52.392Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:14:52.393Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:14:52.428Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:14:52.429Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:15:04.875Z"}
+info: info {"timestamp":"2020-04-04T10:15:04.903Z"}
+info: info {"timestamp":"2020-04-04T10:15:04.903Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:16:04.220Z"}
+info: info {"timestamp":"2020-04-04T10:16:04.245Z"}
+info: info {"timestamp":"2020-04-04T10:16:04.245Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:16:14.906Z"}
+info: info {"timestamp":"2020-04-04T10:16:14.935Z"}
+info: info {"timestamp":"2020-04-04T10:16:14.935Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:23.035Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:23.036Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:25.401Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:25.401Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:26.209Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:26.209Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:26.679Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:26.679Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:27.082Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:27.082Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:27.431Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:27.431Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:27.742Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:27.742Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:28.284Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:28.284Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:29.047Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:29.047Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:37.870Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:37.870Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:40.030Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:40.030Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:40.692Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:40.692Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:41.023Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:41.023Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:41.308Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:41.308Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:46.838Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:46.839Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:47.518Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:47.519Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:47.874Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:47.875Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:48.172Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:48.172Z"}
+debug: undefined {"timestamp":"2020-04-04T10:16:53.031Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:16:53.031Z"}
+debug: undefined {"timestamp":"2020-04-04T10:17:10.166Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:17:10.166Z"}
+debug: undefined {"timestamp":"2020-04-04T10:17:10.628Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:17:10.628Z"}
+debug: undefined {"timestamp":"2020-04-04T10:17:11.326Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:17:11.327Z"}
+debug: undefined {"timestamp":"2020-04-04T10:17:11.726Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:17:11.726Z"}
+debug: undefined {"timestamp":"2020-04-04T10:17:19.735Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:17:19.735Z"}
+debug: undefined {"timestamp":"2020-04-04T10:17:20.727Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:17:20.727Z"}
+debug: undefined {"timestamp":"2020-04-04T10:17:21.119Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:17:21.119Z"}
+debug: undefined {"timestamp":"2020-04-04T10:17:21.508Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:17:21.508Z"}
+debug: undefined {"timestamp":"2020-04-04T10:17:22.013Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:17:22.013Z"}
+debug: undefined {"timestamp":"2020-04-04T10:17:30.937Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:17:30.938Z"}
+debug: undefined {"timestamp":"2020-04-04T10:17:31.399Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:17:31.399Z"}
+debug: undefined {"timestamp":"2020-04-04T10:17:31.785Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:17:31.785Z"}
+debug: undefined {"timestamp":"2020-04-04T10:17:36.133Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:17:36.133Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:17:51.371Z"}
+info: info {"timestamp":"2020-04-04T10:17:51.393Z"}
+info: info {"timestamp":"2020-04-04T10:17:51.393Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:17:54.899Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:17:54.899Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:17:54.938Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:17:54.938Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:18:48.812Z"}
+info: info {"timestamp":"2020-04-04T10:18:48.848Z"}
+info: info {"timestamp":"2020-04-04T10:18:48.848Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:18:53.818Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:18:53.818Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:18:53.877Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:18:53.877Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:19:13.063Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:19:13.063Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:19:13.104Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:19:13.104Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:19:17.342Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:19:17.342Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:19:17.380Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:19:17.380Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:19:21.965Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:19:21.965Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:19:22.014Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:19:22.014Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:19:26.772Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:19:26.772Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:19:26.798Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:19:26.798Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:22:45.307Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:22:45.307Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:22:45.428Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:22:45.428Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:22:50.743Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:22:50.743Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:22:50.780Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:22:50.780Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:23:04.380Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:23:04.380Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:23:04.401Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:23:04.401Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:23:52.213Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:23:52.213Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:23:52.260Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:23:52.261Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:24:49.469Z"}
+info: info {"timestamp":"2020-04-04T10:24:49.491Z"}
+info: info {"timestamp":"2020-04-04T10:24:49.491Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:26:16.168Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:26:16.168Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:26:16.209Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:26:16.209Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:28:28.536Z"}
+info: info {"timestamp":"2020-04-04T10:28:28.554Z"}
+info: info {"timestamp":"2020-04-04T10:28:28.554Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:28:31.417Z"}
+info: info {"timestamp":"2020-04-04T10:28:31.443Z"}
+info: info {"timestamp":"2020-04-04T10:28:31.443Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:29:23.673Z"}
+info: info {"timestamp":"2020-04-04T10:29:23.697Z"}
+info: info {"timestamp":"2020-04-04T10:29:23.697Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:29:30.414Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:29:30.414Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:29:30.463Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:29:30.463Z"}
+debug: 2/CARE/IPD/03/2020 {"timestamp":"2020-04-04T10:30:34.174Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T10:30:34.174Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:30:34.200Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e7ee6866f2d181fec5cba1f,
+  registrationid: '2/CARE/IPD/03/2020',
+  registrationDate: '3/28/2020, 11:53:42 AM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 45,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'gsdfgsdfgfdg',
+  state: 'Jammu and Kashmir',
+  primaryPhoneNnumber: '01710038888',
+  email: '',
+  __v: 0,
+  admitDate: '4/3/2020, 6:24:03 PM',
+  advanceAmount: '500',
+  isAdmitted: true,
+  modifiedBy: null,
+  refererAmount: '',
+  refererPhone: '',
+  whoBoughtPatient: 'mahmid'
+} {"timestamp":"2020-04-04T10:30:34.200Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:35:06.993Z"}
+info: info {"timestamp":"2020-04-04T10:35:07.017Z"}
+info: info {"timestamp":"2020-04-04T10:35:07.017Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:35:30.955Z"}
+info: info {"timestamp":"2020-04-04T10:35:30.971Z"}
+info: info {"timestamp":"2020-04-04T10:35:30.971Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:36:29.270Z"}
+info: info {"timestamp":"2020-04-04T10:36:29.292Z"}
+info: info {"timestamp":"2020-04-04T10:36:29.292Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:38:15.692Z"}
+info: info {"timestamp":"2020-04-04T10:38:15.709Z"}
+info: info {"timestamp":"2020-04-04T10:38:15.709Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:39:25.498Z"}
+info: info {"timestamp":"2020-04-04T10:39:25.523Z"}
+info: info {"timestamp":"2020-04-04T10:39:25.523Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:42:37.145Z"}
+info: info {"timestamp":"2020-04-04T10:42:37.185Z"}
+info: info {"timestamp":"2020-04-04T10:42:37.185Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:42:57.232Z"}
+info: info {"timestamp":"2020-04-04T10:42:57.286Z"}
+info: info {"timestamp":"2020-04-04T10:42:57.287Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:43:07.925Z"}
+info: info {"timestamp":"2020-04-04T10:43:07.954Z"}
+info: info {"timestamp":"2020-04-04T10:43:07.954Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:43:36.187Z"}
+info: info {"timestamp":"2020-04-04T10:43:36.208Z"}
+info: info {"timestamp":"2020-04-04T10:43:36.208Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:43:38.619Z"}
+info: info {"timestamp":"2020-04-04T10:43:38.646Z"}
+info: info {"timestamp":"2020-04-04T10:43:38.647Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:47:01.500Z"}
+info: info {"timestamp":"2020-04-04T10:47:01.523Z"}
+info: info {"timestamp":"2020-04-04T10:47:01.523Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:47:52.854Z"}
+info: info {"timestamp":"2020-04-04T10:47:52.879Z"}
+info: info {"timestamp":"2020-04-04T10:47:52.879Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:48:23.410Z"}
+info: info {"timestamp":"2020-04-04T10:48:23.434Z"}
+info: info {"timestamp":"2020-04-04T10:48:23.435Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:48:31.827Z"}
+info: info {"timestamp":"2020-04-04T10:48:31.848Z"}
+info: info {"timestamp":"2020-04-04T10:48:31.848Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:53:01.762Z"}
+info: info {"timestamp":"2020-04-04T10:53:01.781Z"}
+info: info {"timestamp":"2020-04-04T10:53:01.781Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:53:21.719Z"}
+info: info {"timestamp":"2020-04-04T10:53:21.743Z"}
+info: info {"timestamp":"2020-04-04T10:53:21.743Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:53:32.946Z"}
+info: info {"timestamp":"2020-04-04T10:53:32.969Z"}
+info: info {"timestamp":"2020-04-04T10:53:32.969Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:54:40.308Z"}
+info: info {"timestamp":"2020-04-04T10:54:40.331Z"}
+info: info {"timestamp":"2020-04-04T10:54:40.331Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T10:54:45.818Z"}
+info: info {"timestamp":"2020-04-04T10:54:45.842Z"}
+info: info {"timestamp":"2020-04-04T10:54:45.842Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T11:04:34.932Z"}
+info: info {"timestamp":"2020-04-04T11:04:34.954Z"}
+info: info {"timestamp":"2020-04-04T11:04:34.955Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T11:13:55.930Z"}
+info: info {"timestamp":"2020-04-04T11:13:55.946Z"}
+info: info {"timestamp":"2020-04-04T11:13:55.946Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T11:15:23.498Z"}
+info: info {"timestamp":"2020-04-04T11:15:23.516Z"}
+info: info {"timestamp":"2020-04-04T11:15:23.516Z"}
+debug: undefined {"timestamp":"2020-04-04T11:15:28.819Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T11:15:28.819Z"}
+debug: 4/care/ipd/04/2020 {"timestamp":"2020-04-04T11:15:31.139Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T11:15:31.139Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e885d2dfaa7fa386d38a5a0,
+  registrationid: '4/care/ipd/04/2020',
+  registrationDate: '4/4/2020, 4:10:21 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 42,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'dfsafasdfds',
+  state: 'Haryana',
+  primaryPhoneNnumber: '01710038888',
+  email: 'abcd@gmail.com',
+  __v: 0,
+  admitDate: '4/4/2020, 5:15:31 PM'
+} {"timestamp":"2020-04-04T11:15:31.179Z"}
+info: hjhhhhhhhhhhhhhhhhhhhhhh{
+  _id: 5e885d2dfaa7fa386d38a5a0,
+  registrationid: '4/care/ipd/04/2020',
+  registrationDate: '4/4/2020, 4:10:21 PM',
+  patientName: 'Maruf',
+  underDoctor: 'mmahmid',
+  sufferingFrom: 'sadffafdas',
+  sex: 'Male',
+  age: 42,
+  VoterId: '5354435',
+  admissionType: 'IPD',
+  paymentType: 'Card',
+  village: 'safgsdfgfg',
+  postOffice: 'gdfsgdfgf',
+  policeStation: 'sdfgdsfgfdsg',
+  district: 'dfsafasdfds',
+  state: 'Haryana',
+  primaryPhoneNnumber: '01710038888',
+  email: 'abcd@gmail.com',
+  __v: 0,
+  admitDate: '4/4/2020, 5:15:31 PM'
+} {"timestamp":"2020-04-04T11:15:31.179Z"}
+debug: undefined {"timestamp":"2020-04-04T11:15:54.042Z"}
+debug: fskfsanfkjn {"timestamp":"2020-04-04T11:15:54.043Z"}
+debug: server up and runnig at http://localhost:4000 {"timestamp":"2020-04-04T11:16:29.565Z"}
+info: info {"timestamp":"2020-04-04T11:16:29.592Z"}
+info: info {"timestamp":"2020-04-04T11:16:29.592Z"}
